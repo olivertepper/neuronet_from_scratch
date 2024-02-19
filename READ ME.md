@@ -1,4 +1,5 @@
-If you don't have openpyxl installed in your operating system then you need to install it first as it will be required for reading data for excel reading reading in pandas
+# neuronet_from_scratch
+
 Create a virtual environment
 Install the required libraries from requirements.txt file using pip install -r requirements.txt
 Run the Engine.py file
